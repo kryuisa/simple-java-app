@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Updated: Jenkins is just alright.");
+        System.out.println("Updated: Jenkins is just ok. - update 2");
     }
 
     public String getMessage() {
